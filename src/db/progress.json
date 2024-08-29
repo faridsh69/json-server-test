@@ -1,0 +1,2525 @@
+{
+  "progress": 41,
+  "passed": 10,
+  "total": 25,
+  "messages": [
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"],
+    ["progress.overall.project_progress"]
+  ],
+  "items": {
+    "1396": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 3,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 3,
+              "messages": {
+                "1": ["Zero budget on 1 for 2024 year"],
+                "2": ["Zero budget on 2 for 2024 year"],
+                "3": ["Zero budget on 3 for 2024 year"]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1409": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 3,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 3,
+              "messages": {
+                "1": ["Zero budget on 1 for 2024 year"],
+                "2": ["Zero budget on 2 for 2024 year"],
+                "3": ["Zero budget on 3 for 2024 year"]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1410": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 3,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 3,
+              "messages": {
+                "1": ["Zero budget on 1 for 2024 year"],
+                "2": ["Zero budget on 2 for 2024 year"],
+                "3": ["Zero budget on 3 for 2024 year"]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1411": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 3,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 3,
+              "messages": {
+                "1": ["Zero budget on 1 for 2024 year"],
+                "2": ["Zero budget on 2 for 2024 year"],
+                "3": ["Zero budget on 3 for 2024 year"]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1415": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 3,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 3,
+              "messages": {
+                "1": ["Zero budget on 1 for 2024 year"],
+                "2": ["Zero budget on 2 for 2024 year"],
+                "3": ["Zero budget on 3 for 2024 year"]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1416": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 3,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 3,
+              "messages": {
+                "1": ["Zero budget on 1 for 2024 year"],
+                "2": ["Zero budget on 2 for 2024 year"],
+                "3": ["Zero budget on 3 for 2024 year"]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1444": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 3,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 3,
+              "messages": {
+                "1": ["Zero budget on 1 for 2024 year"],
+                "2": ["Zero budget on 2 for 2024 year"],
+                "3": ["Zero budget on 3 for 2024 year"]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1448": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 15,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 15,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year",
+                  "Zero budget on 1 for 2025 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year",
+                  "Zero budget on 2 for 2025 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year",
+                  "Zero budget on 3 for 2025 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1449": {
+      "progress": 48,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 50,
+          "passed": 3,
+          "total": 6,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 50,
+              "passed": 3,
+              "total": 6,
+              "messages": {
+                "1": ["Zero budget on 1 for 2023 year"],
+                "2": ["Zero budget on 2 for 2023 year"],
+                "3": ["Zero budget on 3 for 2023 year"]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1451": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 3,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 3,
+              "messages": {
+                "1": ["Zero budget on 1 for 2024 year"],
+                "2": ["Zero budget on 2 for 2024 year"],
+                "3": ["Zero budget on 3 for 2024 year"]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1453": {
+      "progress": 57,
+      "passed": 3,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 100,
+          "passed": 3,
+          "total": 3,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 100,
+              "passed": 3,
+              "total": 3,
+              "messages": null,
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1454": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 12,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 12,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1455": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 12,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 12,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1456": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 12,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 12,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1457": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 12,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 12,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1458": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 12,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 12,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1460": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 3,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 3,
+              "messages": {
+                "1": ["Zero budget on 1 for 2024 year"],
+                "2": ["Zero budget on 2 for 2024 year"],
+                "3": ["Zero budget on 3 for 2024 year"]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1461": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 3,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 3,
+              "messages": {
+                "1": ["Zero budget on 1 for 2024 year"],
+                "2": ["Zero budget on 2 for 2024 year"],
+                "3": ["Zero budget on 3 for 2024 year"]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1462": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 12,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 12,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1463": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 12,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 12,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1476": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 15,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 15,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2020 year",
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2020 year",
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2020 year",
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1479": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 12,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 12,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1481": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 12,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 12,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1482": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 12,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 12,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2021 year",
+                  "Zero budget on 1 for 2022 year",
+                  "Zero budget on 1 for 2023 year",
+                  "Zero budget on 1 for 2024 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2021 year",
+                  "Zero budget on 2 for 2022 year",
+                  "Zero budget on 2 for 2023 year",
+                  "Zero budget on 2 for 2024 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2021 year",
+                  "Zero budget on 3 for 2022 year",
+                  "Zero budget on 3 for 2023 year",
+                  "Zero budget on 3 for 2024 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    },
+    "1487": {
+      "progress": 40,
+      "passed": 2,
+      "total": 6,
+      "messages": null,
+      "items": {
+        "project": {
+          "progress": 38,
+          "passed": 3,
+          "total": 8,
+          "messages": {
+            "research_type_id": ["Research Type required"],
+            "plan_utilization_id": ["Plan Utilization required"],
+            "category_id": ["Category required"],
+            "sub_category_id": ["Sub Category required"],
+            "keywords": ["Keywords required"]
+          },
+          "items": null
+        },
+        "partnerships": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": null
+        },
+        "responsibles": {
+          "progress": 0,
+          "passed": 0,
+          "total": 13,
+          "messages": {
+            "50": ["Responsible for type \"Developer\" isn't set"],
+            "51": ["Responsible for type \"CEO\" isn't set"],
+            "56": ["Responsible for type \"Elster\" isn't set"],
+            "58": ["Responsible for type \"QA\" isn't set"],
+            "61": ["Responsible for type \"CTO\" isn't set"],
+            "62": ["Responsible for type \"Sales Person\" isn't set"],
+            "64": ["Responsible for type \"Project Manager\" isn't set"],
+            "65": ["Responsible for type \"Project Manager2\" isn't set"],
+            "66": ["Responsible for type \"Project Manager\" isn't set"],
+            "67": ["Responsible for type \"Lead Scientist\" isn't set"],
+            "68": ["Responsible for type \"Financial Analyst\" isn't set"],
+            "69": ["Responsible for type \"Support Specialist\" isn't set"],
+            "70": ["Responsible for type \"Communications Officer\" isn't set"]
+          },
+          "items": null
+        },
+        "outline": {
+          "progress": 100,
+          "passed": 0,
+          "total": 0,
+          "messages": null,
+          "items": {
+            "1": {
+              "progress": 100,
+              "passed": 0,
+              "total": 0,
+              "messages": null,
+              "items": null
+            }
+          }
+        },
+        "submission": {
+          "progress": 0,
+          "passed": 0,
+          "total": 1,
+          "messages": {
+            "submission": ["Project isn't submitted yet"]
+          },
+          "items": null
+        },
+        "costs": {
+          "progress": 0,
+          "passed": 0,
+          "total": 6,
+          "messages": null,
+          "items": {
+            "budget": {
+              "progress": 0,
+              "passed": 0,
+              "total": 6,
+              "messages": {
+                "1": [
+                  "Zero budget on 1 for 2024 year",
+                  "Zero budget on 1 for 2025 year"
+                ],
+                "2": [
+                  "Zero budget on 2 for 2024 year",
+                  "Zero budget on 2 for 2025 year"
+                ],
+                "3": [
+                  "Zero budget on 3 for 2024 year",
+                  "Zero budget on 3 for 2025 year"
+                ]
+              },
+              "items": null
+            }
+          }
+        }
+      }
+    }
+  }
+}

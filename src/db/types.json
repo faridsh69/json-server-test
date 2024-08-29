@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": 53,
+      "title": "T1",
+      "description": "t1",
+      "partner_id": 1,
+      "workflow_id": 204,
+      "color": "#2186AB",
+      "icon": "FolderHIcon",
+      "projects_count": 5
+    },
+    {
+      "id": 54,
+      "title": "Furkan Test (DONT CHANGE)",
+      "partner_id": 1,
+      "workflow_id": 206,
+      "color": "#CE2D36",
+      "icon": "QuickEditHIcon",
+      "projects_count": 9
+    },
+    {
+      "id": 61,
+      "title": "SFF",
+      "partner_id": 1,
+      "workflow_id": 218,
+      "color": "#2186AB",
+      "icon": "FolderHIcon",
+      "projects_count": 11
+    }
+  ],
+  "logs": {
+    "53": [
+      {
+        "userId": 16,
+        "createdAt": "2024-08-13 11:06:52",
+        "entityId": 53
+      },
+      {
+        "userId": 16,
+        "createdAt": "2024-08-13 11:06:51",
+        "entityId": 53
+      },
+      {
+        "userId": 16,
+        "createdAt": "2024-08-13 10:55:13",
+        "entityId": 53
+      }
+    ],
+    "54": [
+      {
+        "userId": 16,
+        "createdAt": "2024-08-16 13:50:15",
+        "entityId": 54
+      },
+      {
+        "userId": 16,
+        "createdAt": "2024-08-16 13:50:14",
+        "entityId": 54
+      },
+      {
+        "userId": 16,
+        "createdAt": "2024-08-16 13:50:04",
+        "entityId": 54
+      },
+      {
+        "userId": 16,
+        "createdAt": "2024-08-16 13:50:03",
+        "entityId": 54
+      },
+      {
+        "userId": 16,
+        "createdAt": "2024-08-13 11:33:56",
+        "entityId": 54
+      },
+      {
+        "userId": 16,
+        "createdAt": "2024-08-13 11:33:55",
+        "entityId": 54
+      },
+      {
+        "userId": 16,
+        "createdAt": "2024-08-13 11:33:51",
+        "entityId": 54
+      }
+    ],
+    "61": [
+      {
+        "userId": 16,
+        "createdAt": "2024-08-14 08:35:22",
+        "entityId": 61
+      }
+    ]
+  }
+}

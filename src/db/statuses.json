@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Application",
+      "color": "#38A09D"
+    },
+    {
+      "id": 2,
+      "title": "In Review",
+      "color": "#94BA5D"
+    },
+    {
+      "id": 3,
+      "title": "Ongoing",
+      "color": "#9B80BA"
+    },
+    {
+      "id": 4,
+      "title": "Rejected",
+      "color": "#CC4850"
+    },
+    {
+      "id": 5,
+      "title": "Finished",
+      "color": "#999999"
+    }
+  ]
+}
