@@ -1,0 +1,47 @@
+{
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": "d02a5982-848e-413c-b888-c9ae6cae2ff9",
+        "action_type": null,
+        "entity_type": "project",
+        "entity_id": 1487,
+        "entity_name": null,
+        "user_id": 16,
+        "organization_id": 1,
+        "event_created_at": "2024-08-29 13:25:54",
+        "eventable_type": "comment",
+        "created_at": "2024-08-29 11:25:54",
+        "updated_at": "2024-08-29 11:25:54",
+        "user": {
+          "id": 16,
+          "name": "Wahyu Febrianto test",
+          "username": "admin",
+          "email": "cop@test.de",
+          "avatar": "https://innos-testing.s3.eu-central-1.amazonaws.com/auth/avatars/16"
+        },
+        "eventable": {
+          "id": "0582a953-e97e-47dd-87d8-c15cdbaf56ae",
+          "body": "wqeqwe",
+          "extra": {
+            "user_id": "16",
+            "partner_id": "1"
+          },
+          "deleted_at": null,
+          "created_at": "2024-08-29T11:25:54.000000Z",
+          "updated_at": "2024-08-29T11:25:54.000000Z"
+        },
+        "attachments": [],
+        "is_pinned": false
+      }
+    ],
+    "pagination": {
+      "current_page": 1,
+      "last_page": 1,
+      "per_page": 25,
+      "total": 1
+    }
+  },
+  "code": 200
+}

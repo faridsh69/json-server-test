@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "type_id": 1,
+      "purpose_id": 1,
+      "title": "R&D personnel costs (Budget)"
+    },
+    {
+      "id": 2,
+      "type_id": 2,
+      "purpose_id": 1,
+      "title": "R&D personnel costs (Plan)"
+    },
+    {
+      "id": 3,
+      "type_id": 1,
+      "purpose_id": 2,
+      "title": "Contractor costs (Budget)"
+    },
+    {
+      "id": 4,
+      "type_id": 2,
+      "purpose_id": 2,
+      "title": "Contractor costs (Plan)"
+    },
+    {
+      "id": 5,
+      "type_id": 1,
+      "purpose_id": 3,
+      "title": "Other"
+    },
+    {
+      "id": 6,
+      "type_id": 2,
+      "purpose_id": 3,
+      "title": "Cloud Computing"
+    },
+    {
+      "id": 9,
+      "type_id": 2,
+      "purpose_id": 3,
+      "title": "Hardware Kosten"
+    },
+    {
+      "id": 10,
+      "type_id": 2,
+      "purpose_id": 3,
+      "title": "Software Kosten"
+    },
+    {
+      "id": 11,
+      "type_id": 2,
+      "purpose_id": 3,
+      "title": "Consumables"
+    },
+    {
+      "id": 12,
+      "type_id": 2,
+      "purpose_id": 3,
+      "title": "Data Licenses"
+    },
+    {
+      "id": 13,
+      "type_id": 2,
+      "purpose_id": 3,
+      "title": "Payments to clinical trial participants"
+    }
+  ]
+}
