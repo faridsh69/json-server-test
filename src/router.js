@@ -17,17 +17,17 @@ module.exports = function () {
     costs: costsRoute,
     progress: progressRoute,
     projects: projectsRoute,
-    // "projects/1487": project1487Route,
-    contractors: contractors1487,
-    "partnership-costs": partnershipCosts1487,
-    "entity-watchers": eventsEntityWatchers1487,
-    events: {
-      filter: eventsFilter,
-    },
+    "projects/1487": project1487Route,
     contractors: {
       all: {
         analysis: contractorsAllAnalysis1487,
       },
     },
+    events: {
+      filter: eventsFilter,
+    },
+    contractors: contractors1487,
+    "partnership-costs": partnershipCosts1487,
+    "entity-watchers": eventsEntityWatchers1487,
   };
 };
